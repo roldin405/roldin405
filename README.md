@@ -1,9 +1,5 @@
 <h1 align="center">It'z Rol'De 🥶 </h1>
-<p align="center">
-  <img alt="Profile Hits" src="https://count.getloli.com/@Roldinjs?name=roldin&theme=gelbooru-h&padding=9&offset=0&align=top&scale=1&pixelated=1&darkmode=auto&num=123456789">
 
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&center=true&vCenter=true&width=500&lines=B.Tech+Computer+Science+Student;Aspiring+Software+Developer;Learning+%26+Building+Every+Day" alt="Typing SVG" />
-</p>
 
 <p align="center">
   🎓 Amal Jyothi College of Engineering <br/>
