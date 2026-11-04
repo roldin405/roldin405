@@ -1,5 +1,6 @@
-<h1 align="center">It'z Rol'De 🥶 </h1>
+# It'z Rol'De 🥶
 
+<h1 align="center">It'z Rol'De 🥶</h1>
 
 <p align="center">
   🎓 Amal Jyothi College of Engineering <br/>
@@ -7,9 +8,11 @@
 </p>
 
 ---
-<h3><b>Visit my Portfolio</b> <a href="https://roldinportfolio.vercel.app/">Roldin </a></h3>
+
+<h3 align="center"><b>Visit my Portfolio</b> <a href="https://roldinportfolio.vercel.app/">Roldin</a></h3>
 
 ## 👩‍💻 About Me
+
 - 💡 Interested in **Software Development, Web Technologies, and Problem Solving**
 - 🌱 Enjoy working on **real-world and sustainability-focused projects**
 - 📘 Continuously strengthening **core computer science fundamentals**
@@ -17,27 +20,31 @@
 ---
 
 ## 🧠 Core Concepts
-- Data Structures & Algorithms  
-- Database Fundamentals  
-- Object-Oriented Programming  
+
+- Data Structures & Algorithms
+- Database Fundamentals
+- Object-Oriented Programming
 
 ---
 
 ## 🌱 Currently Learning
-- Advanced Data Structures & Algorithms  
-- Full-Stack Web Development  
+
+- Advanced Data Structures & Algorithms
+- Full-Stack Web Development
 - Software design best practices
 
 ---
 
 ## 🚀 Projects & Experience
-- IoT-based sustainability mini projects  
-- Academic and personal projects focused on practical problem-solving  
+
+- IoT-based sustainability mini projects
+- Academic and personal projects focused on practical problem-solving
 - Exploring ideas that combine **technology + impact**
 
 ---
 
 ## 💻 Tech Stack
+
 <p align="center">
   <img src="https://img.shields.io/badge/C-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white"/>
   <img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"/>
@@ -51,23 +58,22 @@
 ---
 
 ## 📊 GitHub Stats
+
 <p align="center">
-  <img src="https://github-readme-stats-alpha-snowy-32.vercel.app/api?username=roldin405&show_icons=true&theme=dark&hide_border=true&count_private=true&include_all_commits=true" >
+  <img src="https://github-readme-stats.vercel.app/api?username=roldin405&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" width="48%" />
+  <img src="https://streak-stats.demolab.com/?user=roldin405&theme=tokyonight&hide_border=true" width="48%" />
 </p>
 
 <p align="center">
-  <img src="https://nirzak-streak-stats.vercel.app/?user=roldin405&theme=dark" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=roldin405&layout=compact&theme=dark" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=roldin405&layout=compact&theme=tokyonight&hide_border=true" width="48%" />
 </p>
 
 ---
 
 ## 🤝 Let's Connect
+
 <p align="center">
-  <a href="https://www.linkedin.com/in/roldin-joseph-shaju-76259632b//">
+  <a href="https://www.linkedin.com/in/roldin-joseph-shaju-76259632b/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   <a href="mailto:roldinjosephshaju@gmail.com">
@@ -81,17 +87,22 @@
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-<h3 align="center">Statistics</h3>
+<h3 align="center">📈 Statistics</h3>
+
 <div align="center">
-<a href="https://github.com/roldin405">
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=roldin405&theme=2077" height="180em" />
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=roldin405&theme=2077" height="180em" />
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=roldin405&theme=2077" height="180em" />
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=roldin405&theme=2077" height="180em" />
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=roldin405&theme=2077" height="180em" />
+  <a href="https://github.com/roldin405">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=roldin405&theme=tokyonight" height="180em" />
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=roldin405&theme=tokyonight" height="180em" />
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=roldin405&theme=tokyonight" height="180em" />
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=roldin405&theme=tokyonight&utcOffset=5.5" height="180em" />
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=roldin405&theme=tokyonight" width="95%" />
+  </a>
 </div>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-<h2 align="left">⚡Activity Graph:</h2>
-<img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=roldin405&theme=tokyo-night"/>
+<h2 align="left">⚡ Activity Graph</h2>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=roldin405&theme=tokyo-night&hide_border=true" width="100%" />
+</p>
